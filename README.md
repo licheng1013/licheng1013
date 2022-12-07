@@ -1,20 +1,14 @@
 # 目录
 ## 介绍
 - 欢迎来的我的Github主页
+- 我的Github博客地址: [http://licheng1013.gitee.io](http://licheng1013.gitee.io)
+- 我的Gitee博客地址: [http://licheng1013.github.io](http://licheng1013.github.io)
+- Gitee是同步Github的，最新博客以Github为主！
+### 你好 👋
+- 🔭 Gorm 一款集成在Goland的插件生成Gorm增删改查代码以及Gin框架的代码 
+- 🔭 IoGame 一款集成在Idea的插件辅助IoGame游戏框架的开发 
+- 🔭 JavaOrm 一款集成在Idea的插件生成MybatisPlus的增删改查代码。
+- 🔭 VueAdmin 一款自己编写的前端后台模板。
+- 浏览地址: [https://licheng1013.github.io/plugins/plugins.html](https://licheng1013.github.io/plugins/plugins.html)
 
-### Hi there 👋
 
-<!--
-**licheng1013/licheng1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
