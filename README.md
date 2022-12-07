@@ -1,8 +1,8 @@
 # 目录
 ## 介绍
 - 欢迎来的我的Github主页
-- 我的Github博客地址: [http://licheng1013.gitee.io](http://licheng1013.gitee.io)
-- 我的Gitee博客地址: [http://licheng1013.github.io](http://licheng1013.github.io)
+- 我的Github博客地址: [http://licheng1013.gitee.io](http://licheng1013.github.io)
+- 我的Gitee博客地址: [http://licheng1013.github.io](http://licheng1013.gitee.io)
 - Gitee是同步Github的，最新博客以Github为主！
 ### 你好 👋
 - 🔭 Gorm 一款集成在Goland的插件生成Gorm增删改查代码以及Gin框架的代码 
