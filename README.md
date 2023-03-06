@@ -1,5 +1,5 @@
 # 目录
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licheng1013&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 介绍
 - 欢迎来的我的Github主页
 - 我的Github博客地址: [http://licheng1013.github.io](http://licheng1013.github.io)
@@ -13,3 +13,8 @@
 - 浏览地址: [https://licheng1013.github.io/plugins/plugins.html](https://licheng1013.github.io/plugins/plugins.html)
 
 
+### 统计
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licheng1013&theme=radica&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+### 提交
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licheng1013&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
