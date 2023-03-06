@@ -11,7 +11,8 @@
 - 浏览地址: [https://licheng1013.github.io/plugins/plugins.html](https://licheng1013.github.io/plugins/plugins.html)
 
 ### 统计
-![](https://github-readme-stats.vercel.app/api?username=licheng1013&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=licheng1013&theme=dark&layout=compact)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licheng1013&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
