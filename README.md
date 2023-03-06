@@ -1,4 +1,5 @@
 # 目录
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licheng1013)](https://github.com/anuraghazra/github-readme-stats)
 ## 介绍
 - 欢迎来的我的Github主页
 - 我的Github博客地址: [http://licheng1013.github.io](http://licheng1013.github.io)
