@@ -2,7 +2,7 @@
 
 ## 介绍
 - 欢迎来的我的Github主页
-- 我的Github博客地址: [http://licheng1013.github.io](http://licheng1013.github.io)Cancel changes
+- 我的Github博客地址: [http://licheng1013.github.io](http://licheng1013.github.io)
 
 ### 你好 👋
 - 🔭 Gorm 一款集成在Goland的插件生成Gorm增删改查代码以及Gin框架的代码 
