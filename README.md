@@ -9,6 +9,7 @@
 - 🔭 IoGame 一款集成在Idea的插件辅助IoGame游戏框架的开发 
 - 🔭 JavaOrm 一款集成在Idea的插件生成MybatisPlus的增删改查代码。
 - 浏览地址: [https://licheng1013.github.io/plugins](https://licheng1013.github.io/plugins)
+- 随着AI时代的来临，上面插件已经过时了。也不再需要了。
 
 ### 统计
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=licheng1013&theme=dark&layout=compact&hide=html,c%23,javascript,vue,typescript,less)
